@@ -4,7 +4,7 @@ Here you'll find some Prefabs I created for either [VRChat](https://store.steamp
   
   
 ## List of Prefabs
-| Name              | Links         |
+| Name              | Description   |
 | -------------     | ------------- |
-| Shocker           | [Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker)  |
-| Remote Trigger    | [Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)  |
+| [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) | A Shocker model inclusive Trigger Prefab to make it possible to shock you in VR using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
+| [Remote Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    | A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
