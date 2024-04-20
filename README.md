@@ -1,7 +1,7 @@
 # Openshock Prefabs
 Here you'll find some prefabs I created in Unity for [VRChat](https://store.steampowered.com/app/438100/VRChat/) and [ChilloutVR](https://store.steampowered.com/app/661130/ChilloutVR/) to utilize the [Openshock](https://github.com/OpenShock) project in either of those games.
 
-To use OSC in ChilloutVR you'll need a OSC mod. One of the most popular ones are [OSC by kafeijao](https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file).
+To use ShockOSC in ChilloutVR you'll need a OSC mod. One of the most popular ones are [OSC by kafeijao](https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file).
   
   
   
