@@ -7,4 +7,4 @@ Here you'll find some Prefabs I created in Unity for either [VRChat](https://sto
 | Name              | Description   |
 | -------------     | ------------- |
 | [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) | A Shocker model inclusive trigger prefab to make it possible to shock you in VR using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
-| [RemoteTrigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    | A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
+| [Remote-Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    | A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
