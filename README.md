@@ -1,4 +1,4 @@
-![Discord Shield](https://discordapp.com/api/guilds/[1078124408775901204]/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/1078124408775901204/widget.png?style=shield)
 # Openshock Prefabs
 Here you'll find some prefabs I created in Unity for [VRChat](https://store.steampowered.com/app/438100/VRChat/) and [ChilloutVR](https://store.steampowered.com/app/661130/ChilloutVR/) to utilize the [Openshock](https://github.com/OpenShock) project in either of those games.
 
