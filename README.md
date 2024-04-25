@@ -4,6 +4,8 @@ Here you'll find some prefabs I created in Unity for [VRChat](https://store.stea
 All of the [VRChat](https://store.steampowered.com/app/438100/VRChat/) prefabs use [VRCFury](https://vrcfury.com/).
 
 To use [ShockOSC](https://github.com/OpenShock/ShockOsc) in ChilloutVR you'll need a OSC mod. One of the most popular ones are [OSC by kafeijao](https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file).
+
+When multiple Prefabs are used together it should combine into one single sub menu.
   
   
   
@@ -13,3 +15,8 @@ To use [ShockOSC](https://github.com/OpenShock/ShockOsc) in ChilloutVR you'll ne
 | [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) | A Shocker model inclusive trigger prefab to make it possible to shock you in VR by touching the Shocker using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
 | [Remote-Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    | A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
 |[Settings Menu](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/SettingsMenu)|A Menu for editing [ShockOSC](https://github.com/OpenShock/ShockOsc) settings from within the game. __**Needs ShockOsc v2.0 or newer**__|
+
+## Tips
+# Move the Menu into another Sub menu:
+If you need to move the ShockOsc submenu, just click on your avatars main object, then add the "VRCFury | Move Menu Item" component to it and configure it like this:
+![MoveMenu](Images/MoveMenu.png)
