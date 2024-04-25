@@ -1,8 +1,8 @@
-[![Discord Shield](https://discordapp.com/api/guilds/1078124408775901204/widget.png?style=shield)](https://discord.gg/OpenShock) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) [![CVR](https://img.shields.io/badge/CVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRC-blue)](https://store.steampowered.com/app/438100/VRChat/) [![VRCFury](https://img.shields.io/badge/VRCFury-orange)](https://vrcfury.com/)
+[![Discord Shield](https://discordapp.com/api/guilds/1078124408775901204/widget.png?style=shield)](https://discord.gg/OpenShock) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) [![CVR](https://img.shields.io/badge/ChilloutVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRChat-blue)](https://store.steampowered.com/app/438100/VRChat/) [![VRCFury](https://img.shields.io/badge/VRCFury-orange)](https://vrcfury.com/)
 
 
 # Openshock Prefabs
-Here you'll find some prefabs I created in Unity for [VRChat](https://store.steampowered.com/app/438100/VRChat/) and [ChilloutVR](https://store.steampowered.com/app/661130/ChilloutVR/) to utilize the [Openshock](https://github.com/OpenShock) project in either of those games.
+Here you'll find some prefabs I created in Unity for [VRChat (VRC)](https://store.steampowered.com/app/438100/VRChat/) and [ChilloutVR (CVR)](https://store.steampowered.com/app/661130/ChilloutVR/) to utilize the [Openshock](https://github.com/OpenShock) project in either of those games.
 
 All of the [VRChat](https://store.steampowered.com/app/438100/VRChat/) prefabs use [VRCFury](https://vrcfury.com/).
 
@@ -47,3 +47,6 @@ A: Make sure the **Sender** object is disabled while uploading the Avatar, other
 
 ### Q: Why can't I shock myself? I have the Sender and Receiver on my avatar!
 A: In the *Receiver* script enable **Allow Self**
+
+### Q: Why do I have to merge Animators and stuff myself when I want to use it in CVR?
+A: Sadly there is not solution like VRCFury I'm aware of that is made for CVR. That means no fancy tool to do the annoying work.
