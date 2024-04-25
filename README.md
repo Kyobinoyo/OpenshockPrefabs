@@ -8,22 +8,22 @@ All of the [VRChat](https://store.steampowered.com/app/438100/VRChat/) prefabs u
 
 To use [ShockOSC](https://github.com/OpenShock/ShockOsc) in ChilloutVR you'll need a OSC mod. One of the most popular ones are [OSC by kafeijao](https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file).
 
-When multiple Prefabs are used together it should combine into one single sub menu.
+When multiple Prefabs are used together by default they should combine into one single Sub-Menu.
   
   
   
 ## List of Prefabs
 | Name              |Parameters|CVR|VRC| Description   |
-| -------------     | :-------------: |:----------:|:-----------:|---------------|
+| :-------------:     | :-------------: |:----------:|:-----------:|:---------------|
 | [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker)                         |3|✔️|✔️| A Shocker model inclusive trigger prefab to make it possible to shock you in VR by touching the Shocker using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
 | [Remote Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)            |1|❌|✔️| A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
 |[Settings Menu](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/SettingsMenu)               |0 |❌|✔️|A Menu for editing [ShockOSC](https://github.com/OpenShock/ShockOsc) settings from within the game. __**Needs ShockOsc v2.0 or newer**__|
 
 ## Tips
-### Move the Menu into another Sub menu:
-By default the ShockOsc Submenu get's created in the main menu page, if you need to move the ShockOsc submenu, just click on your avatars main object, then add the "VRCFury | Move Menu Item" component to it and configure it like this:  
+### Move the Menu into another Sub-Menu:
+By default the ShockOsc Sub-Menu gets created in the main menu page, if you want to move it, just click on your avatars root object, then add the "VRCFury | Move Menu Item" component and configure it like this:  
 ![MoveMenu](Images/MoveMenu.png)  
-After that it should be where you want it to be.  
+After that the menu should be where you want it to be.  
 
 ## FAQ
 ### Q: VRCFury is throwing some error.
