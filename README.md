@@ -32,7 +32,7 @@ A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-
 ```
 C:\Users\%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\OSC
 ```  
-and delete the files there, it'll not damage your game after you change back in to your avatar it should generate new files with your parameters updated.  
+and delete the files there, it'll not damage your game you can even do it while being in-game, after you change back in to your avatar it should generate new files with your parameters updated.  
 
 ### Q: Why is my friend getting shocked every time my Avatar is loaded in?
 A: Make sure the **Sender** object is disabled while uploading the Avatar, otherwise the Sender object is active when you load in and get's disabled when the parameter sync kicks in, resulting in a shock.  
