@@ -1,4 +1,4 @@
-[![Discord Shield](https://discordapp.com/api/guilds/1078124408775901204/widget.png?style=shield)](https://discord.gg/OpenShock) [![CVR](https://img.shields.io/badge/CVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRC-blue)](https://store.steampowered.com/app/438100/VRChat/) [![VRCFury](https://img.shields.io/badge/VRCFury-orange)](https://vrcfury.com/)
+[![Discord Shield](https://discordapp.com/api/guilds/1078124408775901204/widget.png?style=shield)](https://discord.gg/OpenShock) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/) [![CVR](https://img.shields.io/badge/CVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRC-blue)](https://store.steampowered.com/app/438100/VRChat/) [![VRCFury](https://img.shields.io/badge/VRCFury-orange)](https://vrcfury.com/)
 
 
 # Openshock Prefabs
