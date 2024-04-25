@@ -28,7 +28,11 @@ A: Make sure you have enough parameter memory slots free for the prefab you want
 if this doesn't help contact me on the [Openshock Discord](https://discord.gg/OpenShock).  
 
 ### Q: Why is ShockOsc not reacting to my Shocker being touched?
-A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-it) is active, if that's not the problem, then is being funny VRChat when updating an Avatar, most of the time it does not update the parameters for OSC, to fix that go to ``C:\Users\%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\OSC`` and delete the files there, it'll not damage your game after you change back in to your avatar it should generate new files with your parameters updated.  
+A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-it) is active, if that's not the problem, then is being funny VRChat when updating an Avatar, most of the time it does not update the parameters for OSC, to fix that go to  
+```
+C:\Users\%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\OSC
+```  
+and delete the files there, it'll not damage your game after you change back in to your avatar it should generate new files with your parameters updated.  
 
 ### Q: Why is my friend getting shocked every time my Avatar is loaded in?
 A: Make sure the **Sender** object is disabled while uploading the Avatar, otherwise the Sender object is active when you load in and get's disabled when the parameter sync kicks in, resulting in a shock.  
