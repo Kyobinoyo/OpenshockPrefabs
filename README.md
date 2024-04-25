@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/1078124408775901204) [![CVR](https://img.shields.io/badge/CVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRC-blue)](https://store.steampowered.com/app/438100/VRChat/)
+![Discord](https://img.shields.io/discord/1078124408775901204) [![CVR](https://img.shields.io/badge/CVR-red)](https://store.steampowered.com/app/661130/ChilloutVR/) [![VRC](https://img.shields.io/badge/VRC-blue)](https://store.steampowered.com/app/438100/VRChat/) [![VRCFury](https://img.shields.io/badge/VRCFury-orange)](https://vrcfury.com/)
 
 
 # Openshock Prefabs
