@@ -20,3 +20,4 @@ When multiple Prefabs are used together it should combine into one single sub me
 ### Move the Menu into another Sub menu:
 If you need to move the ShockOsc submenu, just click on your avatars main object, then add the "VRCFury | Move Menu Item" component to it and configure it like this:
 ![MoveMenu](Images/MoveMenu.png)
+After that it should be where you want it to be.
