@@ -10,11 +10,11 @@ When multiple Prefabs are used together it should combine into one single sub me
   
   
 ## List of Prefabs
-| Name              | Description   |
-| -------------     | ------------- |
-| [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) | A Shocker model inclusive trigger prefab to make it possible to shock you in VR by touching the Shocker using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
-| [Remote-Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    | A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
-|[Settings Menu](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/SettingsMenu)|A Menu for editing [ShockOSC](https://github.com/OpenShock/ShockOsc) settings from within the game. __**Needs ShockOsc v2.0 or newer**__|
+| Name              |Parameters| Description   |
+| -------------     | :-------------: |---------------|
+| [Shocker](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) |3| A Shocker model inclusive trigger prefab to make it possible to shock you in VR by touching the Shocker using [ShockOSC](https://github.com/OpenShock/ShockOsc)|
+| [Remote-Trigger](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger)    |1| A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)|
+|[Settings Menu](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/SettingsMenu)|0|A Menu for editing [ShockOSC](https://github.com/OpenShock/ShockOsc) settings from within the game. __**Needs ShockOsc v2.0 or newer**__|
 
 ## Tips
 ### Move the Menu into another Sub menu:
@@ -23,6 +23,10 @@ By default the ShockOsc Submenu get's created in the main menu page, if you need
 After that it should be where you want it to be.  
 
 ## FAQ
+### Q: VRCFury is throwing some error.
+A: Make sure you have enough parameter memory slots free for the prefab you want to use.  
+if this doesn't help contact me on the [Openshock Discord](https://discord.gg/OpenShock).  
+
 ### Q: Why is ShockOsc not reacting to my Shocker being touched?
 A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-it) is active, if that's not the problem, then is being funny VRChat when updating an Avatar, most of the time it does not update the parameters for OSC, to fix that go to ``C:\Users\%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\OSC`` and delete the files there, it'll not damage your game after you change back in to your avatar it should generate new files with your parameters updated.  
 
