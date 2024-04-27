@@ -36,7 +36,7 @@ A: Make sure you have enough parameter memory slots free for the prefab you want
 if this doesn't help contact me on the [Openshock Discord](https://discord.gg/OpenShock).  
 
 ### Q: Why is ShockOsc not reacting to my Shocker being touched?
-A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-it) is active, if that's not the problem, then VRChat is being funny when updating an Avatar, most of the time it does not update the parameters for OSC, to fix that go to  
+A: First make sure [OSC](https://docs.vrchat.com/docs/osc-overview#how-do-i-use-it) is active, if that's not the problem, check if you named the parameters correctly, ``ShockOsc/NAME`` while NAME should be replaced by the group name in ShockOsc then and if this is still not working, VRChat is being funny, when updating an Avatar, most of the time it does not update the parameters for OSC, to fix that go to  
 ```
 C:\Users\%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\OSC
 ```  
