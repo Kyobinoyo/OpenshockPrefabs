@@ -8,7 +8,7 @@ All of the [VRChat](https://store.steampowered.com/app/438100/VRChat/) prefabs u
 
 To use [ShockOSC](https://github.com/OpenShock/ShockOsc) in ChilloutVR you'll need a OSC mod. One of the most popular ones are [OSC by kafeijao](https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file).
 
-When multiple Prefabs are used together by default they should combine into one single Sub-Menu.
+When multiple VRChat Prefabs are used together by default they should combine into one single Sub-Menu.
   
   
   
