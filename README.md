@@ -16,7 +16,7 @@ When multiple VRChat Prefabs are used together by default they should combine in
 | Name              |Parameters|CVR|VRC| Description   |Download|
 | :-------------:     | :-------------: |:----------:|:-----------:|:---------------|:----------------:|
 | Shocker |3|✔️|✔️| A Shocker model inclusive trigger prefab to make it possible to shock you in VR by touching the Shocker using [ShockOSC](https://github.com/OpenShock/ShockOsc)|[Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/Shocker) |
-| Remote Trigger |1|❌|✔️| A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)| [Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger) |
+| Remote Trigger |1/0|❌|✔️| A combination of prefabs to make it possible to shock you over distance like using a remote utilizing contacts and [ShockOSC](https://github.com/OpenShock/ShockOsc)| [Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/RemoteTrigger) |
 |Settings Menu |0 |❌|✔️|A Menu for editing [ShockOSC](https://github.com/OpenShock/ShockOsc) settings from within the game. __**Needs ShockOsc v2.0 or newer**__|  [Download](https://github.com/Kyobinoyo/OpenshockPrefabs/releases/tag/SettingsMenu) |  
 
 ❌ = not yet available  
